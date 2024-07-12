@@ -1,0 +1,48 @@
+﻿  Main.cpp
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(79,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(83,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(83,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(87,51): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(199,18): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(199,11): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(225,42): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(236,63): warning C4244: '=': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(237,67): warning C4244: '=': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(238,67): warning C4244: '=': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(39,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(38,1): message : while compiling class template member function 'matc<double>::matc(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &)'
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(134,22): message : see the first reference to 'matc<double>::matc' in 'main'
+E:\neural network proj\Neural_Network\Neural_Network\neuralNetwork.h(11,14): message : see reference to class template instantiation 'matc<double>' being compiled
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(40,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(25,35): message : while compiling class template member function 'matc<double>::matc(const matc<double> &)'
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(97,2): message : see the first reference to 'matc<double>::matc' in 'matc<double>::getRow'
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(222,20): message : see the first reference to 'matc<double>::getRow' in 'main'
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(277,1): message : while compiling class template member function 'T matc<T>::getElement(int,int) const'
+          with
+          [
+              T=double
+          ]
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(214,6): message : see the first reference to 'matc<double>::getElement' in 'main'
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(6,35): message : while compiling class template member function 'matc<double>::matc(int,int)'
+E:\neural network proj\Neural_Network\Neural_Network\matc.cpp(93,13): message : see the first reference to 'matc<double>::matc' in 'matc<double>::getRow'
+E:\neural network proj\Neural_Network\Neural_Network\Main.cpp(222,20): message : see the first reference to 'matc<double>::getRow' in 'main'
+  Generating code
+  2 of 502 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Neural_Network.vcxproj -> E:\neural network proj\Neural_Network\x64\Release\Neural_Network.exe
